@@ -3,33 +3,33 @@
   "leagueName": "Premier League",
   "seasons": [
     {
+      "label": "2026/2027",
+      "code": "2627",
+      "file": "data/E0_2627.csv",
+      "matches": 12,
+      "weight": 0.0339
+    },
+    {
       "label": "2025/2026",
       "code": "2526",
       "file": "data/E0_2526.csv",
       "matches": 380,
-      "weight": 0.5263
+      "weight": 0.6441
     },
     {
       "label": "2024/2025",
       "code": "2425",
       "file": "data/E0_2425.csv",
       "matches": 380,
-      "weight": 0.3158
-    },
-    {
-      "label": "2023/2024",
-      "code": "2324",
-      "file": "data/E0_2324.csv",
-      "matches": 380,
-      "weight": 0.1579
+      "weight": 0.322
     }
   ],
   "weights": {
-    "2025/2026": 0.5263,
-    "2024/2025": 0.3158,
-    "2023/2024": 0.1579
+    "2026/2027": 0.0339,
+    "2025/2026": 0.6441,
+    "2024/2025": 0.322
   },
-  "current": "2025/2026",
-  "updatedAt": "2026-08-07T06:10:19.849809+00:00",
+  "current": "2026/2027",
+  "updatedAt": "2026-08-11T05:54:06.412255+00:00",
   "weightingMethod": "match_count_x_time_factor (1.0/0.6/0.3)"
 }
