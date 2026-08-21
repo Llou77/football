@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "2026-08-21_FL1_Marseille_Strasbourg",
+    "date": "2026-08-21",
+    "league": "FL1",
+    "leagueName": "Ligue 1",
+    "savedAt": "2026-08-21T06:25:19.464179+00:00",
+    "home": "Marseille",
+    "away": "Strasbourg",
+    "predH": 5.61,
+    "predA": 3.29,
+    "predT": 8.9,
+    "probs": {
+      "6.5": 78.4,
+      "7.5": 66.4,
+      "8.5": 53.1,
+      "9.5": 39.9,
+      "10.5": 28.2,
+      "11.5": 18.7,
+      "12.5": 11.7
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 559715
+  }
+]
