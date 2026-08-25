@@ -6,30 +6,30 @@
       "label": "2026/2027",
       "code": "2627",
       "file": "data/SP1_2627.csv",
-      "matches": 5,
-      "weight": 0.0144
+      "matches": 16,
+      "weight": 0.0447
     },
     {
       "label": "2025/2026",
       "code": "2526",
       "file": "data/SP1_2526.csv",
       "matches": 380,
-      "weight": 0.6571
+      "weight": 0.6369
     },
     {
       "label": "2024/2025",
       "code": "2425",
       "file": "data/SP1_2425.csv",
       "matches": 380,
-      "weight": 0.3285
+      "weight": 0.3184
     }
   ],
   "weights": {
-    "2026/2027": 0.0144,
-    "2025/2026": 0.6571,
-    "2024/2025": 0.3285
+    "2026/2027": 0.0447,
+    "2025/2026": 0.6369,
+    "2024/2025": 0.3184
   },
   "current": "2026/2027",
-  "updatedAt": "2026-08-21T05:35:24.842475+00:00",
+  "updatedAt": "2026-08-25T05:34:10.184245+00:00",
   "weightingMethod": "match_count_x_time_factor (1.0/0.6/0.3)"
 }

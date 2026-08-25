@@ -3,33 +3,33 @@
   "leagueName": "Ligue 1",
   "seasons": [
     {
+      "label": "2026/2027",
+      "code": "2627",
+      "file": "data/F1_2627.csv",
+      "matches": 9,
+      "weight": 0.0316
+    },
+    {
       "label": "2025/2026",
       "code": "2526",
       "file": "data/F1_2526.csv",
       "matches": 306,
-      "weight": 0.5263
+      "weight": 0.6456
     },
     {
       "label": "2024/2025",
       "code": "2425",
       "file": "data/F1_2425.csv",
       "matches": 306,
-      "weight": 0.3158
-    },
-    {
-      "label": "2023/2024",
-      "code": "2324",
-      "file": "data/F1_2324.csv",
-      "matches": 306,
-      "weight": 0.1579
+      "weight": 0.3228
     }
   ],
   "weights": {
-    "2025/2026": 0.5263,
-    "2024/2025": 0.3158,
-    "2023/2024": 0.1579
+    "2026/2027": 0.0316,
+    "2025/2026": 0.6456,
+    "2024/2025": 0.3228
   },
-  "current": "2025/2026",
-  "updatedAt": "2026-08-21T05:35:21.127510+00:00",
+  "current": "2026/2027",
+  "updatedAt": "2026-08-25T05:34:07.213203+00:00",
   "weightingMethod": "match_count_x_time_factor (1.0/0.6/0.3)"
 }
