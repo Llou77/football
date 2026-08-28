@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-08-28_PL_CrystalPalace_ManCity",
+    "date": "2026-08-28",
+    "league": "PL",
+    "leagueName": "Premier League",
+    "savedAt": "2026-08-28T17:50:17.220099+00:00",
+    "home": "Crystal Palace",
+    "away": "Man City",
+    "predH": 4.1,
+    "predA": 12.79,
+    "predT": 16.89,
+    "probs": {
+      "6.5": 99.8,
+      "7.5": 99.4,
+      "8.5": 98.7,
+      "9.5": 97.2,
+      "10.5": 94.8,
+      "11.5": 91.1,
+      "12.5": 85.9
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 560555
+  },
+  {
     "id": "2026-08-27_PD_Celta_Osasuna",
     "date": "2026-08-27",
     "league": "PD",
