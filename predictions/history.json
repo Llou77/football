@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-09-03_FL1_Toulouse_Lille",
+    "date": "2026-09-03",
+    "league": "FL1",
+    "leagueName": "Ligue 1",
+    "savedAt": "2026-09-03T10:18:34.559903+00:00",
+    "home": "Toulouse",
+    "away": "Lille",
+    "predH": 8.87,
+    "predA": 3.13,
+    "predT": 12.0,
+    "probs": {
+      "6.5": 95.4,
+      "7.5": 91.0,
+      "8.5": 84.5,
+      "9.5": 75.8,
+      "10.5": 65.3,
+      "11.5": 53.8,
+      "12.5": 42.4
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 559696
+  },
+  {
     "id": "2026-08-31_SA_Atalanta_Bologna",
     "date": "2026-08-31",
     "league": "SA",
