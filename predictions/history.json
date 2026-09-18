@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026-09-18_SA_Monza_Sassuolo",
+    "date": "2026-09-18",
+    "league": "SA",
+    "leagueName": "Serie A",
+    "savedAt": "2026-09-18T10:11:41.030321+00:00",
+    "home": "Monza",
+    "away": "Sassuolo",
+    "predH": 5.46,
+    "predA": 3.22,
+    "predT": 8.68,
+    "probs": {
+      "6.5": 76.2,
+      "7.5": 63.7,
+      "8.5": 50.2,
+      "9.5": 37.1,
+      "10.5": 25.7,
+      "11.5": 16.7,
+      "12.5": 10.2
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 558596
+  },
+  {
+    "id": "2026-09-18_PL_Brentford_Chelsea",
+    "date": "2026-09-18",
+    "league": "PL",
+    "leagueName": "Premier League",
+    "savedAt": "2026-09-18T10:11:38.529701+00:00",
+    "home": "Brentford",
+    "away": "Chelsea",
+    "predH": 6.19,
+    "predA": 3.63,
+    "predT": 9.82,
+    "probs": {
+      "6.5": 85.8,
+      "7.5": 76.3,
+      "8.5": 64.7,
+      "9.5": 51.9,
+      "10.5": 39.4,
+      "11.5": 28.3,
+      "12.5": 19.2
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 560591
+  },
+  {
     "id": "2026-09-15_PD_Elche_RealMadrid",
     "date": "2026-09-15",
     "league": "PD",
