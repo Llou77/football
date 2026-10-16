@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026-10-16_SA_Frosinone_Sassuolo",
+    "date": "2026-10-16",
+    "league": "SA",
+    "leagueName": "Serie A",
+    "savedAt": "2026-10-16T10:22:37.028089+00:00",
+    "home": "Frosinone",
+    "away": "Sassuolo",
+    "predH": 7.86,
+    "predA": 6.74,
+    "predT": 14.6,
+    "probs": {
+      "6.5": 99.0,
+      "7.5": 97.7,
+      "8.5": 95.4,
+      "9.5": 91.6,
+      "10.5": 86.1,
+      "11.5": 78.7,
+      "12.5": 69.8
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 558573
+  },
+  {
+    "id": "2026-10-16_FL1_LeMans_Toulouse",
+    "date": "2026-10-16",
+    "league": "FL1",
+    "leagueName": "Ligue 1",
+    "savedAt": "2026-10-16T10:22:34.812169+00:00",
+    "home": "Le Mans",
+    "away": "Toulouse",
+    "predH": 3.23,
+    "predA": 4.1,
+    "predT": 7.33,
+    "probs": {
+      "6.5": 59.8,
+      "7.5": 45.0,
+      "8.5": 31.5,
+      "9.5": 20.4,
+      "10.5": 12.4,
+      "11.5": 7.0,
+      "12.5": 3.7
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 559661
+  },
+  {
     "id": "2026-10-12_SA_Torino_Udinese",
     "date": "2026-10-12",
     "league": "SA",
