@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026-10-19_SA_Parma_Torino",
+    "date": "2026-10-19",
+    "league": "SA",
+    "leagueName": "Serie A",
+    "savedAt": "2026-10-19T11:28:15.798543+00:00",
+    "home": "Parma",
+    "away": "Torino",
+    "predH": 2.03,
+    "predA": 2.27,
+    "predT": 4.3,
+    "probs": {
+      "6.5": 14.4,
+      "7.5": 7.1,
+      "8.5": 3.2,
+      "9.5": 1.3,
+      "10.5": 0.5,
+      "11.5": 0.2,
+      "12.5": 0.1
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 558578
+  },
+  {
+    "id": "2026-10-19_SA_Monza_Cagliari",
+    "date": "2026-10-19",
+    "league": "SA",
+    "leagueName": "Serie A",
+    "savedAt": "2026-10-19T11:28:15.762784+00:00",
+    "home": "Monza",
+    "away": "Cagliari",
+    "predH": 6.04,
+    "predA": 3.53,
+    "predT": 9.57,
+    "probs": {
+      "6.5": 84.0,
+      "7.5": 73.9,
+      "8.5": 61.7,
+      "9.5": 48.7,
+      "10.5": 36.3,
+      "11.5": 25.6,
+      "12.5": 17.0
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 558576
+  },
+  {
     "id": "2026-10-18_SA_Juventus_Lazio",
     "date": "2026-10-18",
     "league": "SA",
