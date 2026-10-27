@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026-10-27_SA_Roma_Cagliari",
+    "date": "2026-10-27",
+    "league": "SA",
+    "leagueName": "Serie A",
+    "savedAt": "2026-10-27T11:12:41.936179+00:00",
+    "home": "Roma",
+    "away": "Cagliari",
+    "predH": 7.62,
+    "predA": 1.95,
+    "predT": 9.57,
+    "probs": {
+      "6.5": 84.0,
+      "7.5": 73.9,
+      "8.5": 61.7,
+      "9.5": 48.7,
+      "10.5": 36.3,
+      "11.5": 25.6,
+      "12.5": 17.0
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 558555
+  },
+  {
+    "id": "2026-10-27_SA_Sassuolo_Lazio",
+    "date": "2026-10-27",
+    "league": "SA",
+    "leagueName": "Serie A",
+    "savedAt": "2026-10-27T11:12:41.891960+00:00",
+    "home": "Sassuolo",
+    "away": "Lazio",
+    "predH": 4.27,
+    "predA": 5.43,
+    "predT": 9.7,
+    "probs": {
+      "6.5": 85.0,
+      "7.5": 75.2,
+      "8.5": 63.2,
+      "9.5": 50.4,
+      "10.5": 37.9,
+      "11.5": 27.0,
+      "12.5": 18.1
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 558556
+  },
+  {
     "id": "2026-10-25_SA_Udinese_Milan",
     "date": "2026-10-25",
     "league": "SA",
