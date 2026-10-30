@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-10-30_BL1_Elversberg_Mainz",
+    "date": "2026-10-30",
+    "league": "BL1",
+    "leagueName": "Bundesliga",
+    "savedAt": "2026-10-30T11:48:56.234768+00:00",
+    "home": "Elversberg",
+    "away": "Mainz",
+    "predH": 3.44,
+    "predA": 7.72,
+    "predT": 11.16,
+    "probs": {
+      "6.5": 92.8,
+      "7.5": 86.7,
+      "8.5": 78.2,
+      "9.5": 67.7,
+      "10.5": 55.9,
+      "11.5": 44.0,
+      "12.5": 32.9
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 565846
+  },
+  {
     "id": "2026-10-29_SA_Fiorentina_Atalanta",
     "date": "2026-10-29",
     "league": "SA",
