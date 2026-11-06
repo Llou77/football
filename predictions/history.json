@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-11-06_FL1_Toulouse_Strasbourg",
+    "date": "2026-11-06",
+    "league": "FL1",
+    "leagueName": "Ligue 1",
+    "savedAt": "2026-11-06T13:23:52.189691+00:00",
+    "home": "Toulouse",
+    "away": "Strasbourg",
+    "predH": 4.91,
+    "predA": 2.85,
+    "predT": 7.76,
+    "probs": {
+      "6.5": 65.6,
+      "7.5": 51.3,
+      "8.5": 37.4,
+      "9.5": 25.4,
+      "10.5": 16.1,
+      "11.5": 9.5,
+      "12.5": 5.3
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 559638
+  },
+  {
     "id": "2026-11-02_SA_Atalanta_Parma",
     "date": "2026-11-02",
     "league": "SA",
