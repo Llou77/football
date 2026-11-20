@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-11-20_FL1_Troyes_LeHavre",
+    "date": "2026-11-20",
+    "league": "FL1",
+    "leagueName": "Ligue 1",
+    "savedAt": "2026-11-20T14:32:43.749308+00:00",
+    "home": "Troyes",
+    "away": "Le Havre",
+    "predH": 5.95,
+    "predA": 2.24,
+    "predT": 8.19,
+    "probs": {
+      "6.5": 70.9,
+      "7.5": 57.3,
+      "8.5": 43.4,
+      "9.5": 30.7,
+      "10.5": 20.3,
+      "11.5": 12.6,
+      "12.5": 7.3
+    },
+    "actualH": null,
+    "actualA": null,
+    "actualT": null,
+    "error": null,
+    "matchId": 559622
+  },
+  {
     "id": "2026-11-08_SA_Fiorentina_Juventus",
     "date": "2026-11-08",
     "league": "SA",
